@@ -24,7 +24,7 @@ Bem-vindo ao ReadPile, pode ser interpretado como pilha de livros já lidos. Mer
 
 
 ### 💻 Como Acessar  
-Você pode acessar o ReadPile diretamente [aqui](#). 👀
+Você pode acessar o ReadPile diretamente [aqui](https://read-pile.vercel.app/). 👀
 
 ## 🚀 Tecnologias Utilizadas
 
