@@ -33,3 +33,7 @@ Você pode acessar o ReadPile diretamente [aqui](https://read-pile.vercel.app/).
 - JavaScript
 - jQuery
 - Materialize CSS
+
+---
+Desenvolvido por [Carolina Lima](https://github.com/CarolinaLM)👩‍💻 - 2024
+
